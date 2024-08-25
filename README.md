@@ -1,5 +1,3 @@
-
-
 # Object Tracking using OpenCV
 
 This Python script demonstrates object tracking in a video using OpenCV. The script utilizes basic object detection techniques and centroid tracking to monitor and label objects moving within a video feed.
