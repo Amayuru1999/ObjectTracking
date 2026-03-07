@@ -46,7 +46,6 @@ This Python script demonstrates object tracking in a video using OpenCV. The scr
 ## Code Structure
 
 The code consists of several main sections:
-
 - **Initialization:** Importing necessary libraries, initializing variables, and setting up the object detection class.
 - **Object Detection:** Detecting objects in each frame and extracting their bounding boxes and centroid positions.
 - **Object Tracking:** Comparing centroid positions between frames to track objects and assigning unique IDs.
